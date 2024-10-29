@@ -1,0 +1,19 @@
+
+{
+    "region" : "ap-south-1",
+    "profile" : "Questa Enneagram Pvt Ltd",
+    "configuration" : "Release",
+    "framework"     : "net6.0",
+    "function-name" : "LambdaFunQuestaAdminAPI",
+    "function-description" : "Default function",
+    "package-type"         : "Zip",
+    "function-handler"     : "QuestaAdminApi",
+    "function-memory-size" : 512,
+    "function-role"        : "arn:aws:iam::578205413162:role/lambda_exec_LambdaFunQuestaAdminAPI",
+    "function-timeout"     : 90,
+    "function-runtime"     : "dotnet6",
+    "function-architecture" : "x86_64",
+    "tracing-mode"          : "PassThrough",
+    "environment-variables" : "",
+    "image-tag"             : ""
+}

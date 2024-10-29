@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\API\\QuestaAdminApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6311FDA0-3F5E-4B97-971B-967A1ABB574A}|QuestaAdminApi.ServiceLayer\\QuestaAdminApi.ServiceLayer.csproj|f:\\api\\questaadminapi\\questaadminapi.servicelayer\\service\\clscrendential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6311FDA0-3F5E-4B97-971B-967A1ABB574A}|QuestaAdminApi.ServiceLayer\\QuestaAdminApi.ServiceLayer.csproj|solutionrelative:questaadminapi.servicelayer\\service\\clscrendential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317F9D1F-F5B8-45A7-9BD6-26C3CC0173E8}|QuestaAdminApi\\QuestaAdminApi.csproj|f:\\api\\questaadminapi\\questaadminapi\\controllers\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317F9D1F-F5B8-45A7-9BD6-26C3CC0173E8}|QuestaAdminApi\\QuestaAdminApi.csproj|solutionrelative:questaadminapi\\controllers\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317F9D1F-F5B8-45A7-9BD6-26C3CC0173E8}|QuestaAdminApi\\QuestaAdminApi.csproj|f:\\api\\questaadminapi\\questaadminapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{317F9D1F-F5B8-45A7-9BD6-26C3CC0173E8}|QuestaAdminApi\\QuestaAdminApi.csproj|solutionrelative:questaadminapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317F9D1F-F5B8-45A7-9BD6-26C3CC0173E8}|QuestaAdminApi\\QuestaAdminApi.csproj|f:\\api\\questaadminapi\\questaadminapi\\controllers\\emailsendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317F9D1F-F5B8-45A7-9BD6-26C3CC0173E8}|QuestaAdminApi\\QuestaAdminApi.csproj|solutionrelative:questaadminapi\\controllers\\emailsendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6311FDA0-3F5E-4B97-971B-967A1ABB574A}|QuestaAdminApi.ServiceLayer\\QuestaAdminApi.ServiceLayer.csproj|f:\\api\\questaadminapi\\questaadminapi.servicelayer\\service\\clsmailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6311FDA0-3F5E-4B97-971B-967A1ABB574A}|QuestaAdminApi.ServiceLayer\\QuestaAdminApi.ServiceLayer.csproj|solutionrelative:questaadminapi.servicelayer\\service\\clsmailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317F9D1F-F5B8-45A7-9BD6-26C3CC0173E8}|QuestaAdminApi\\QuestaAdminApi.csproj|f:\\api\\questaadminapi\\questaadminapi\\controllers\\generatecandidatelinkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317F9D1F-F5B8-45A7-9BD6-26C3CC0173E8}|QuestaAdminApi\\QuestaAdminApi.csproj|solutionrelative:questaadminapi\\controllers\\generatecandidatelinkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6311FDA0-3F5E-4B97-971B-967A1ABB574A}|QuestaAdminApi.ServiceLayer\\QuestaAdminApi.ServiceLayer.csproj|f:\\api\\questaadminapi\\questaadminapi.servicelayer\\service\\clslinkgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6311FDA0-3F5E-4B97-971B-967A1ABB574A}|QuestaAdminApi.ServiceLayer\\QuestaAdminApi.ServiceLayer.csproj|solutionrelative:questaadminapi.servicelayer\\service\\clslinkgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6311FDA0-3F5E-4B97-971B-967A1ABB574A}|QuestaAdminApi.ServiceLayer\\QuestaAdminApi.ServiceLayer.csproj|f:\\api\\questaadminapi\\questaadminapi.servicelayer\\service\\clsmasterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6311FDA0-3F5E-4B97-971B-967A1ABB574A}|QuestaAdminApi.ServiceLayer\\QuestaAdminApi.ServiceLayer.csproj|solutionrelative:questaadminapi.servicelayer\\service\\clsmasterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0111656-963B-45E8-BD4A-DB94C86C2B8D}|QuestaAdminApi.DatabaseLayer\\QuestaAdminApi.DatabaseLayer.csproj|f:\\api\\questaadminapi\\questaadminapi.databaselayer\\clsdbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0111656-963B-45E8-BD4A-DB94C86C2B8D}|QuestaAdminApi.DatabaseLayer\\QuestaAdminApi.DatabaseLayer.csproj|solutionrelative:questaadminapi.databaselayer\\clsdbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6311FDA0-3F5E-4B97-971B-967A1ABB574A}|QuestaAdminApi.ServiceLayer\\QuestaAdminApi.ServiceLayer.csproj|f:\\api\\questaadminapi\\questaadminapi.servicelayer\\service\\clscandidatedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6311FDA0-3F5E-4B97-971B-967A1ABB574A}|QuestaAdminApi.ServiceLayer\\QuestaAdminApi.ServiceLayer.csproj|solutionrelative:questaadminapi.servicelayer\\service\\clscandidatedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317F9D1F-F5B8-45A7-9BD6-26C3CC0173E8}|QuestaAdminApi\\QuestaAdminApi.csproj|f:\\api\\questaadminapi\\questaadminapi\\aws-lambda-tools-defaults.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{317F9D1F-F5B8-45A7-9BD6-26C3CC0173E8}|QuestaAdminApi\\QuestaAdminApi.csproj|solutionrelative:questaadminapi\\aws-lambda-tools-defaults.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B37F6AC-91CF-4040-A943-E9CE2FCA112E}|QuestaAdminApi.UnitTestFreamWork\\QuestaAdminApi.UnitTestFreamWork.csproj|f:\\api\\questaadminapi\\questaadminapi.unittestfreamwork\\generatelinktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B37F6AC-91CF-4040-A943-E9CE2FCA112E}|QuestaAdminApi.UnitTestFreamWork\\QuestaAdminApi.UnitTestFreamWork.csproj|solutionrelative:questaadminapi.unittestfreamwork\\generatelinktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6311FDA0-3F5E-4B97-971B-967A1ABB574A}|QuestaAdminApi.ServiceLayer\\QuestaAdminApi.ServiceLayer.csproj|f:\\api\\questaadminapi\\questaadminapi.servicelayer\\service\\clsawsconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6311FDA0-3F5E-4B97-971B-967A1ABB574A}|QuestaAdminApi.ServiceLayer\\QuestaAdminApi.ServiceLayer.csproj|solutionrelative:questaadminapi.servicelayer\\service\\clsawsconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6311FDA0-3F5E-4B97-971B-967A1ABB574A}|QuestaAdminApi.ServiceLayer\\QuestaAdminApi.ServiceLayer.csproj|f:\\api\\questaadminapi\\questaadminapi.servicelayer\\service\\clsaesoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6311FDA0-3F5E-4B97-971B-967A1ABB574A}|QuestaAdminApi.ServiceLayer\\QuestaAdminApi.ServiceLayer.csproj|solutionrelative:questaadminapi.servicelayer\\service\\clsaesoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B37F6AC-91CF-4040-A943-E9CE2FCA112E}|QuestaAdminApi.UnitTestFreamWork\\QuestaAdminApi.UnitTestFreamWork.csproj|f:\\api\\questaadminapi\\questaadminapi.unittestfreamwork\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B37F6AC-91CF-4040-A943-E9CE2FCA112E}|QuestaAdminApi.UnitTestFreamWork\\QuestaAdminApi.UnitTestFreamWork.csproj|solutionrelative:questaadminapi.unittestfreamwork\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B37F6AC-91CF-4040-A943-E9CE2FCA112E}|QuestaAdminApi.UnitTestFreamWork\\QuestaAdminApi.UnitTestFreamWork.csproj|f:\\api\\questaadminapi\\questaadminapi.unittestfreamwork\\dependancy\\mastersvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B37F6AC-91CF-4040-A943-E9CE2FCA112E}|QuestaAdminApi.UnitTestFreamWork\\QuestaAdminApi.UnitTestFreamWork.csproj|solutionrelative:questaadminapi.unittestfreamwork\\dependancy\\mastersvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317F9D1F-F5B8-45A7-9BD6-26C3CC0173E8}|QuestaAdminApi\\QuestaAdminApi.csproj|f:\\api\\questaadminapi\\questaadminapi\\controllers\\showcandidaterecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317F9D1F-F5B8-45A7-9BD6-26C3CC0173E8}|QuestaAdminApi\\QuestaAdminApi.csproj|solutionrelative:questaadminapi\\controllers\\showcandidaterecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317F9D1F-F5B8-45A7-9BD6-26C3CC0173E8}|QuestaAdminApi\\QuestaAdminApi.csproj|f:\\api\\questaadminapi\\questaadminapi\\controllers\\viewcandidaterecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317F9D1F-F5B8-45A7-9BD6-26C3CC0173E8}|QuestaAdminApi\\QuestaAdminApi.csproj|solutionrelative:questaadminapi\\controllers\\viewcandidaterecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317F9D1F-F5B8-45A7-9BD6-26C3CC0173E8}|QuestaAdminApi\\QuestaAdminApi.csproj|f:\\api\\questaadminapi\\questaadminapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{317F9D1F-F5B8-45A7-9BD6-26C3CC0173E8}|QuestaAdminApi\\QuestaAdminApi.csproj|solutionrelative:questaadminapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\API\\QuestaAdminApi\\QuestaAdminApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "QuestaAdminApi\\appsettings.Development.json",
+              "ToolTip": "F:\\API\\QuestaAdminApi\\QuestaAdminApi\\appsettings.Development.json",
+              "RelativeToolTip": "QuestaAdminApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T12:06:02.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClsMasterData.cs",
+              "DocumentMoniker": "F:\\API\\QuestaAdminApi\\QuestaAdminApi.ServiceLayer\\Service\\ClsMasterData.cs",
+              "RelativeDocumentMoniker": "QuestaAdminApi.ServiceLayer\\Service\\ClsMasterData.cs",
+              "ToolTip": "F:\\API\\QuestaAdminApi\\QuestaAdminApi.ServiceLayer\\Service\\ClsMasterData.cs",
+              "RelativeToolTip": "QuestaAdminApi.ServiceLayer\\Service\\ClsMasterData.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAwC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:21:13.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClsLinkGeneration.cs",
+              "DocumentMoniker": "F:\\API\\QuestaAdminApi\\QuestaAdminApi.ServiceLayer\\Service\\ClsLinkGeneration.cs",
+              "RelativeDocumentMoniker": "QuestaAdminApi.ServiceLayer\\Service\\ClsLinkGeneration.cs",
+              "ToolTip": "F:\\API\\QuestaAdminApi\\QuestaAdminApi.ServiceLayer\\Service\\ClsLinkGeneration.cs",
+              "RelativeToolTip": "QuestaAdminApi.ServiceLayer\\Service\\ClsLinkGeneration.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAwDMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:35:29.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClsAwsConsole.cs",
+              "DocumentMoniker": "F:\\API\\QuestaAdminApi\\QuestaAdminApi.ServiceLayer\\Service\\ClsAwsConsole.cs",
+              "RelativeDocumentMoniker": "QuestaAdminApi.ServiceLayer\\Service\\ClsAwsConsole.cs",
+              "ToolTip": "F:\\API\\QuestaAdminApi\\QuestaAdminApi.ServiceLayer\\Service\\ClsAwsConsole.cs",
+              "RelativeToolTip": "QuestaAdminApi.ServiceLayer\\Service\\ClsAwsConsole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:35:22.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailSenderController.cs",
+              "DocumentMoniker": "F:\\API\\QuestaAdminApi\\QuestaAdminApi\\Controllers\\EmailSenderController.cs",
+              "RelativeDocumentMoniker": "QuestaAdminApi\\Controllers\\EmailSenderController.cs",
+              "ToolTip": "F:\\API\\QuestaAdminApi\\QuestaAdminApi\\Controllers\\EmailSenderController.cs",
+              "RelativeToolTip": "QuestaAdminApi\\Controllers\\EmailSenderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:35:32.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClsMailSender.cs",
+              "DocumentMoniker": "F:\\API\\QuestaAdminApi\\QuestaAdminApi.ServiceLayer\\Service\\ClsMailSender.cs",
+              "RelativeDocumentMoniker": "QuestaAdminApi.ServiceLayer\\Service\\ClsMailSender.cs",
+              "ToolTip": "F:\\API\\QuestaAdminApi\\QuestaAdminApi.ServiceLayer\\Service\\ClsMailSender.cs",
+              "RelativeToolTip": "QuestaAdminApi.ServiceLayer\\Service\\ClsMailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:35:32.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "F:\\API\\QuestaAdminApi\\QuestaAdminApi\\Dockerfile",
+              "RelativeDocumentMoniker": "QuestaAdminApi\\Dockerfile",
+              "ToolTip": "F:\\API\\QuestaAdminApi\\QuestaAdminApi\\Dockerfile",
+              "RelativeToolTip": "QuestaAdminApi\\Dockerfile",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-01T11:32:12.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserLoginController.cs",
+              "DocumentMoniker": "F:\\API\\QuestaAdminApi\\QuestaAdminApi\\Controllers\\UserLoginController.cs",
+              "RelativeDocumentMoniker": "QuestaAdminApi\\Controllers\\UserLoginController.cs",
+              "ToolTip": "F:\\API\\QuestaAdminApi\\QuestaAdminApi\\Controllers\\UserLoginController.cs",
+              "RelativeToolTip": "QuestaAdminApi\\Controllers\\UserLoginController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:50:57.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClsCrendential.cs",
+              "DocumentMoniker": "F:\\API\\QuestaAdminApi\\QuestaAdminApi.ServiceLayer\\Service\\ClsCrendential.cs",
+              "RelativeDocumentMoniker": "QuestaAdminApi.ServiceLayer\\Service\\ClsCrendential.cs",
+              "ToolTip": "F:\\API\\QuestaAdminApi\\QuestaAdminApi.ServiceLayer\\Service\\ClsCrendential.cs",
+              "RelativeToolTip": "QuestaAdminApi.ServiceLayer\\Service\\ClsCrendential.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwEcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:35:27.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenerateCandidateLinkController.cs",
+              "DocumentMoniker": "F:\\API\\QuestaAdminApi\\QuestaAdminApi\\Controllers\\GenerateCandidateLinkController.cs",
+              "RelativeDocumentMoniker": "QuestaAdminApi\\Controllers\\GenerateCandidateLinkController.cs",
+              "ToolTip": "F:\\API\\QuestaAdminApi\\QuestaAdminApi\\Controllers\\GenerateCandidateLinkController.cs",
+              "RelativeToolTip": "QuestaAdminApi\\Controllers\\GenerateCandidateLinkController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAYwFIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T05:51:16.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClsDbConnection.cs",
+              "DocumentMoniker": "F:\\API\\QuestaAdminApi\\QuestaAdminApi.DatabaseLayer\\ClsDbConnection.cs",
+              "RelativeDocumentMoniker": "QuestaAdminApi.DatabaseLayer\\ClsDbConnection.cs",
+              "ToolTip": "F:\\API\\QuestaAdminApi\\QuestaAdminApi.DatabaseLayer\\ClsDbConnection.cs",
+              "RelativeToolTip": "QuestaAdminApi.DatabaseLayer\\ClsDbConnection.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAwC0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:17:53.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClsAesOperation.cs",
+              "DocumentMoniker": "F:\\API\\QuestaAdminApi\\QuestaAdminApi.ServiceLayer\\Service\\ClsAesOperation.cs",
+              "RelativeDocumentMoniker": "QuestaAdminApi.ServiceLayer\\Service\\ClsAesOperation.cs",
+              "ToolTip": "F:\\API\\QuestaAdminApi\\QuestaAdminApi.ServiceLayer\\Service\\ClsAesOperation.cs",
+              "RelativeToolTip": "QuestaAdminApi.ServiceLayer\\Service\\ClsAesOperation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:35:20.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClsCandidateDetails.cs",
+              "DocumentMoniker": "F:\\API\\QuestaAdminApi\\QuestaAdminApi.ServiceLayer\\Service\\ClsCandidateDetails.cs",
+              "RelativeDocumentMoniker": "QuestaAdminApi.ServiceLayer\\Service\\ClsCandidateDetails.cs",
+              "ToolTip": "F:\\API\\QuestaAdminApi\\QuestaAdminApi.ServiceLayer\\Service\\ClsCandidateDetails.cs",
+              "RelativeToolTip": "QuestaAdminApi.ServiceLayer\\Service\\ClsCandidateDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:35:25.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "aws-lambda-tools-defaults.json",
+              "DocumentMoniker": "F:\\API\\QuestaAdminApi\\QuestaAdminApi\\aws-lambda-tools-defaults.json",
+              "RelativeDocumentMoniker": "QuestaAdminApi\\aws-lambda-tools-defaults.json",
+              "ToolTip": "F:\\API\\QuestaAdminApi\\QuestaAdminApi\\aws-lambda-tools-defaults.json",
+              "RelativeToolTip": "QuestaAdminApi\\aws-lambda-tools-defaults.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-10T12:19:34.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenerateLinkTest.cs",
+              "DocumentMoniker": "F:\\API\\QuestaAdminApi\\QuestaAdminApi.UnitTestFreamWork\\GenerateLinkTest.cs",
+              "RelativeDocumentMoniker": "QuestaAdminApi.UnitTestFreamWork\\GenerateLinkTest.cs",
+              "ToolTip": "F:\\API\\QuestaAdminApi\\QuestaAdminApi.UnitTestFreamWork\\GenerateLinkTest.cs",
+              "RelativeToolTip": "QuestaAdminApi.UnitTestFreamWork\\GenerateLinkTest.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:04:38.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "F:\\API\\QuestaAdminApi\\QuestaAdminApi.UnitTestFreamWork\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "QuestaAdminApi.UnitTestFreamWork\\UnitTest1.cs",
+              "ToolTip": "F:\\API\\QuestaAdminApi\\QuestaAdminApi.UnitTestFreamWork\\UnitTest1.cs",
+              "RelativeToolTip": "QuestaAdminApi.UnitTestFreamWork\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T05:52:52.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MasterSvc.cs",
+              "DocumentMoniker": "F:\\API\\QuestaAdminApi\\QuestaAdminApi.UnitTestFreamWork\\Dependancy\\MasterSvc.cs",
+              "RelativeDocumentMoniker": "QuestaAdminApi.UnitTestFreamWork\\Dependancy\\MasterSvc.cs",
+              "ToolTip": "F:\\API\\QuestaAdminApi\\QuestaAdminApi.UnitTestFreamWork\\Dependancy\\MasterSvc.cs",
+              "RelativeToolTip": "QuestaAdminApi.UnitTestFreamWork\\Dependancy\\MasterSvc.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwDgAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:20:54.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ViewCandidateRecordsController.cs",
+              "DocumentMoniker": "F:\\API\\QuestaAdminApi\\QuestaAdminApi\\Controllers\\ViewCandidateRecordsController.cs",
+              "RelativeDocumentMoniker": "QuestaAdminApi\\Controllers\\ViewCandidateRecordsController.cs",
+              "ToolTip": "F:\\API\\QuestaAdminApi\\QuestaAdminApi\\Controllers\\ViewCandidateRecordsController.cs",
+              "RelativeToolTip": "QuestaAdminApi\\Controllers\\ViewCandidateRecordsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T05:51:02.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShowCandidateRecordsController.cs",
+              "DocumentMoniker": "F:\\API\\QuestaAdminApi\\QuestaAdminApi\\Controllers\\ShowCandidateRecordsController.cs",
+              "RelativeDocumentMoniker": "QuestaAdminApi\\Controllers\\ShowCandidateRecordsController.cs",
+              "ToolTip": "F:\\API\\QuestaAdminApi\\QuestaAdminApi\\Controllers\\ShowCandidateRecordsController.cs",
+              "RelativeToolTip": "QuestaAdminApi\\Controllers\\ShowCandidateRecordsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T05:51:00.106Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
